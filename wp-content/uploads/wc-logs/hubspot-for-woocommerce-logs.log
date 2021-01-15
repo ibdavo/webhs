@@ -1,0 +1,654 @@
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Fetching and refreshing access token
+URL: /oauth/v1/token
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Getting access token information
+URL: /oauth/v1/access-tokens/CMWFi67vLhIDQ4cCGLSzsAQgv-ueBii6yAMyGQBVfr0TbJKNfPiZ7sv_zrVH62Aco0ROEHY6JwAKJkeaAQyEAri7AAAABUAgAAAAAAAYxADzHwAAAABAAAAAAAAAIEIZAFV-vROMAZLLbjLYZXANjXpr0o5RstUNFw
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Groups
+URL: /properties/v1/contacts/groups
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"current_abandoned_cart\",\"label\":\"Current Abandoned Cart\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[{\"label\":\"No\",\"value\":\"no\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"yes\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_date\",\"label\":\"Abandoned Cart Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_counter\",\"label\":\"Abandoned Cart Counter\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_url\",\"label\":\"Abandoned Cart URL\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_products_skus\",\"label\":\"Abandoned Cart Products SKUs\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_products_categories\",\"label\":\"Abandoned Cart Products Categories\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_products\",\"label\":\"Abandoned Cart Products\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_products_html\",\"label\":\"Abandoned Cart Products HTML\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_tax_value\",\"label\":\"Abandoned Cart Tax Value\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_subtotal\",\"label\":\"Abandoned Cart Subtotal\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:53.090Z\",\"createdAt\":\"2021-01-12T02:42:53.090Z\",\"name\":\"abandoned_cart_total_value\",\"label\":\"Abandoned Cart Total Value\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"abandoned_cart\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:42:52.971Z\",\"completedAt\":\"2021-01-12T02:42:53.788Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"mql_capture_nurture_conversion_conversion_date\",\"label\":\"MQL Capture, Nurture & Conversion Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"mql_capture_nurture_conversion_start_date\",\"label\":\"MQL Capture, Nurture & Conversion Start date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"new_customer_workflow_conversion\",\"label\":\"New Customer Workflow Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"new_customer_workflow_conversion_amount\",\"label\":\"New Customer Workflow Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"new_customer_workflow_conversion_date\",\"label\":\"New Customer Workflow Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"new_customer_workflow_start_date\",\"label\":\"New Customer Workflow Start Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"second_purchase_workflow_conversion\",\"label\":\"Second Purchase Workflow Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"second_purchase_workflow_conversion_amount\",\"label\":\"Second Purchase Workflow Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"second_purchase_workflow_conversion_date\",\"label\":\"Second Purchase Workflow Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"second_purchase_workflow_start_date\",\"label\":\"Second Purchase Workflow Start Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"third_purchase_workflow_conversion\",\"label\":\"Third Purchase Workflow Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"third_purchase_workflow_conversion_amount\",\"label\":\"Third Purchase Workflow Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"third_purchase_workflow_conversion_date\",\"label\":\"Third Purchase Workflow Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:54.665Z\",\"createdAt\":\"2021-01-12T02:42:54.665Z\",\"name\":\"third_purchase_workflow_start_date\",\"label\":\"Third Purchase Workflow Start Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:42:54.519Z\",\"completedAt\":\"2021-01-12T02:42:55.601Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_new_order\",\"label\":\"Customer New Order\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"no\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"yes\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"abandoned_cart_recovery_workflow_conversion\",\"label\":\"Abandoned Cart Recovery Workflow Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"abandoned_cart_recovery_workflow_conversion_amount\",\"label\":\"Abandoned Cart Recovery Workflow Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"abandoned_cart_recovery_workflow_conversion_date\",\"label\":\"Abandoned Cart Recovery Workflow Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"abandoned_cart_recovery_workflow_start_date\",\"label\":\"Abandoned Cart Recovery Workflow Start Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"current_roi_campaign\",\"label\":\"Current ROI Campaign\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"2nd Order Thank You & Get a 3rd Order\",\"value\":\"2nd Order Thank You & Get a 3rd Order\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"3rd Order Thank You\",\"value\":\"3rd Order Thank You\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Abandoned Cart Recovery\",\"value\":\"Abandoned Cart Recovery\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Customer Reengagement\",\"value\":\"Customer Reengagement\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Customer Rewards\",\"value\":\"Customer Rewards\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"MQL Nurture & Conversion\",\"value\":\"MQL Nurture & Conversion\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"New Customer Welcome & Get a 2nd Order\",\"value\":\"New Customer Welcome & Get a 2nd Order\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"None\",\"value\":\"None\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_reengagement_workflow_conversion\",\"label\":\"Customer Reengagement Workflow Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_reengagement_workflow_conversion_amount\",\"label\":\"Customer Reengagement Workflow Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_reengagement_workflow_conversion_date\",\"label\":\"Customer Reengagement Workflow Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_reengagement_workflow_start_date\",\"label\":\"Customer Reengagement Workflow Start Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_rewards_workflow_conversion\",\"label\":\"Customer Rewards Workflow Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_rewards_workflow_conversion_amount\",\"label\":\"Customer Rewards Workflow Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_rewards_workflow_conversion_date\",\"label\":\"Customer Rewards Workflow Conversion Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"customer_rewards_workflow_start_date\",\"label\":\"Customer Rewards Workflow Start Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"mql_capture_nurture_conversion_conversion\",\"label\":\"MQL Capture, Nurture & Conversion Conversion\",\"type\":\"enumeration\",\"fieldType\":\"booleancheckbox\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[{\"label\":\"No\",\"value\":\"false\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"true\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:56.565Z\",\"createdAt\":\"2021-01-12T02:42:56.565Z\",\"name\":\"mql_capture_nurture_conversion_conversion_amount\",\"label\":\"MQL Capture, Nurture & Conversion Conversion Amount\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"roi_tracking\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:42:56.391Z\",\"completedAt\":\"2021-01-12T02:42:57.625Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:42 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:42:58.446Z\",\"createdAt\":\"2021-01-12T02:42:58.446Z\",\"name\":\"last_skus_bought\",\"label\":\"Last SKUs Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"skus_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:42:58.446Z\",\"createdAt\":\"2021-01-12T02:42:58.446Z\",\"name\":\"skus_bought\",\"label\":\"SKUs Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"skus_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:42:58.418Z\",\"completedAt\":\"2021-01-12T02:42:58.569Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"total_value_of_orders\",\"label\":\"Total Value of Orders\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"average_order_value\",\"label\":\"Average Order Value\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"total_number_of_orders\",\"label\":\"Total Number of Orders\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"first_order_value\",\"label\":\"First Order Value\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"first_order_date\",\"label\":\"First Order Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"last_order_value\",\"label\":\"Last Order Value\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"last_order_date\",\"label\":\"Last Order Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"average_days_between_orders\",\"label\":\"Average Days Between Orders\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"account_creation_date\",\"label\":\"Account Creation Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"monetary_rating\",\"label\":\"Monetary Rating\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[{\"label\":\"1\",\"value\":\"1\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"2\",\"value\":\"2\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"3\",\"value\":\"3\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"4\",\"value\":\"4\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"5\",\"value\":\"5\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"order_frequency_rating\",\"label\":\"Order Frequency Rating\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[{\"label\":\"1\",\"value\":\"1\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"2\",\"value\":\"2\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"3\",\"value\":\"3\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"4\",\"value\":\"4\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"5\",\"value\":\"5\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:00.012Z\",\"createdAt\":\"2021-01-12T02:43:00.012Z\",\"name\":\"order_recency_rating\",\"label\":\"Order Recency Rating\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"rfm_fields\",\"options\":[{\"label\":\"1\",\"value\":\"1\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"2\",\"value\":\"2\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"3\",\"value\":\"3\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"4\",\"value\":\"4\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"5\",\"value\":\"5\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:42:59.341Z\",\"completedAt\":\"2021-01-12T02:43:00.828Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:01.687Z\",\"createdAt\":\"2021-01-12T02:43:01.687Z\",\"name\":\"last_categories_bought\",\"label\":\"Last Categories Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"categories_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:01.687Z\",\"createdAt\":\"2021-01-12T02:43:01.687Z\",\"name\":\"categories_bought\",\"label\":\"Categories Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"categories_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:43:01.660Z\",\"completedAt\":\"2021-01-12T02:43:01.826Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:02.658Z\",\"createdAt\":\"2021-01-12T02:43:02.658Z\",\"name\":\"customer_group\",\"label\":\"Customer Group\/ User role\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"customer_group\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:02.658Z\",\"createdAt\":\"2021-01-12T02:43:02.658Z\",\"name\":\"newsletter_subscription\",\"label\":\"Accepts Marketing\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"customer_group\",\"options\":[{\"label\":\"No\",\"value\":\"no\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Yes\",\"value\":\"yes\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:02.658Z\",\"createdAt\":\"2021-01-12T02:43:02.658Z\",\"name\":\"marketing_newsletter\",\"label\":\"Marketing Newsletter\",\"type\":\"enumeration\",\"fieldType\":\"checkbox\",\"description\":\"\",\"groupName\":\"customer_group\",\"options\":[{\"label\":\"Checkout\",\"value\":\"checkout\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Others\",\"value\":\"other\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Registration\",\"value\":\"registration\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:02.658Z\",\"createdAt\":\"2021-01-12T02:43:02.658Z\",\"name\":\"shopping_cart_customer_id\",\"label\":\"Shopping Cart ID\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"customer_group\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:43:02.610Z\",\"completedAt\":\"2021-01-12T02:43:02.912Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"shipping_address_line_1\",\"label\":\"Shipping Address Line 1\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"shipping_address_line_2\",\"label\":\"Shipping Address Line 2\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"shipping_city\",\"label\":\"Shipping City\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"shipping_state\",\"label\":\"Shipping State\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"shipping_postal_code\",\"label\":\"Shipping Postal Code\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"shipping_country\",\"label\":\"Shipping Country\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"billing_address_line_1\",\"label\":\"Billing Address Line 1\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"billing_address_line_2\",\"label\":\"Billing Address Line 2\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"billing_city\",\"label\":\"Billing City\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"billing_state\",\"label\":\"Billing State\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"billing_postal_code\",\"label\":\"Billing Postal Code\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true},{\"updatedAt\":\"2021-01-12T02:43:03.706Z\",\"createdAt\":\"2021-01-12T02:43:03.706Z\",\"name\":\"billing_country\",\"label\":\"Billing Country\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"shopping_cart_fields\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":true}],\"startedAt\":\"2021-01-12T02:43:03.574Z\",\"completedAt\":\"2021-01-12T02:43:04.536Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:05.227Z\",\"createdAt\":\"2021-01-12T02:43:05.227Z\",\"name\":\"last_products_bought_product_3_image_url\",\"label\":\"Last Products Bought Product 3 Image URL\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:05.227Z\",\"createdAt\":\"2021-01-12T02:43:05.227Z\",\"name\":\"last_products_bought_product_3_name\",\"label\":\"Last Products Bought Product 3 Name\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:05.227Z\",\"createdAt\":\"2021-01-12T02:43:05.227Z\",\"name\":\"last_products_bought_product_3_price\",\"label\":\"Last Products Bought Product 3 Price\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:05.227Z\",\"createdAt\":\"2021-01-12T02:43:05.227Z\",\"name\":\"last_products_bought_product_3_url\",\"label\":\"Last Products Bought Product 3 Url\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:43:05.176Z\",\"completedAt\":\"2021-01-12T02:43:05.500Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_product_bought\",\"label\":\"Last Product Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_product_types_bought\",\"label\":\"Last Product Types Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought\",\"label\":\"Last Products Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_html\",\"label\":\"Last Products Bought HTML\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_total_number_of_products_bought\",\"label\":\"Last Total Number Of Products Bought\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"product_types_bought\",\"label\":\"Product Types Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"products_bought\",\"label\":\"Products Bought\",\"type\":\"string\",\"fieldType\":\"textarea\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"total_number_of_products_bought\",\"label\":\"Total Number Of Products Bought\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_1_image_url\",\"label\":\"Last Products Bought Product 1 Image URL\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_1_name\",\"label\":\"Last Products Bought Product 1 Name\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_1_price\",\"label\":\"Last Products Bought Product 1 Price\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_1_url\",\"label\":\"Last Products Bought Product 1 Url\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_2_image_url\",\"label\":\"Last Products Bought Product 2 Image URL\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_2_name\",\"label\":\"Last Products Bought Product 2 Name\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_2_price\",\"label\":\"Last Products Bought Product 2 Price\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:06.290Z\",\"createdAt\":\"2021-01-12T02:43:06.290Z\",\"name\":\"last_products_bought_product_2_url\",\"label\":\"Last Products Bought Product 2 Url\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"last_products_bought\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:43:06.114Z\",\"completedAt\":\"2021-01-12T02:43:07.294Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating Batch Properties
+URL: /crm/v3/properties/contact/batch/create
+Response: {"status_code":201,"response":"Created","body":"{\"status\":\"COMPLETE\",\"results\":[{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_status\",\"label\":\"Last Order Status\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"order\",\"options\":[{\"label\":\"Cancelled\",\"value\":\"wc-cancelled\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Completed\",\"value\":\"wc-completed\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Failed\",\"value\":\"wc-failed\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"On hold\",\"value\":\"wc-on-hold\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Pending payment\",\"value\":\"wc-pending\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Processing\",\"value\":\"wc-processing\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Refunded\",\"value\":\"wc-refunded\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_fulfillment_status\",\"label\":\"Last Order Fulfillment Status\",\"type\":\"enumeration\",\"fieldType\":\"select\",\"description\":\"\",\"groupName\":\"order\",\"options\":[{\"label\":\"Cancelled\",\"value\":\"wc-cancelled\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Completed\",\"value\":\"wc-completed\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Failed\",\"value\":\"wc-failed\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"On hold\",\"value\":\"wc-on-hold\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Pending payment\",\"value\":\"wc-pending\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Processing\",\"value\":\"wc-processing\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false},{\"label\":\"Refunded\",\"value\":\"wc-refunded\",\"description\":\"\",\"displayOrder\":-1,\"hidden\":false}],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_tracking_number\",\"label\":\"Last Order Tracking Number\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"order\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_tracking_url\",\"label\":\"Last Order Tracking URL\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"order\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_shipment_date\",\"label\":\"Last Order Shipment Date\",\"type\":\"date\",\"fieldType\":\"date\",\"description\":\"\",\"groupName\":\"order\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_order_number\",\"label\":\"Last Order Number\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"order\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"last_order_currency\",\"label\":\"Last Order Currency\",\"type\":\"string\",\"fieldType\":\"text\",\"description\":\"\",\"groupName\":\"order\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false},{\"updatedAt\":\"2021-01-12T02:43:08.267Z\",\"createdAt\":\"2021-01-12T02:43:08.267Z\",\"name\":\"total_number_of_current_orders\",\"label\":\"Total Number of Current Orders\",\"type\":\"number\",\"fieldType\":\"number\",\"description\":\"\",\"groupName\":\"order\",\"options\":[],\"createdUserId\":\"13088191\",\"updatedUserId\":\"13088191\",\"displayOrder\":-1,\"calculated\":false,\"externalOptions\":false,\"archived\":false,\"hasUniqueValue\":false,\"hidden\":false,\"modificationMetadata\":{\"archivable\":true,\"readOnlyDefinition\":false,\"readOnlyValue\":false},\"formField\":false}],\"startedAt\":\"2021-01-12T02:43:08.163Z\",\"completedAt\":\"2021-01-12T02:43:08.778Z\"}"}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Creating or Updating Store
+URL: /extensions/ecomm/v2/stores
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Updating the ecommerce pipeline deal stages
+URL: /crm-pipelines/v1/pipelines/deals/75e28846-ad0d-4be2-a027-5e1da6590b98
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 11, 2021  9:43 pm
+Process: Get Dynamic Lists
+URL: /contacts/v1/lists/dynamic?count=250
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  11:49 am
+Process: Fetching and refreshing access token
+URL: /oauth/v1/token
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  11:49 am
+Process: Fetching Batch Vids
+URL: /contacts/v1/contact/emails/batch/?email=admin@nori.davo-itpro.com&property=email
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  11:49 am
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  11:55 am
+Process: Fetching Batch Vids
+URL: /contacts/v1/contact/emails/batch/?email=admin@nori.davo-itpro.com&property=email
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  11:55 am
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  1:15 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  1:15 pm
+Process: Checking Sync Status of object id -535 and type PRODUCT
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/PRODUCT/535
+Response: {"status_code":400,"response":"Bad Request","body":"{\"status\":\"error\",\"message\":\"No sync messages found for PRODUCT 535 in DoctorProfs-1\",\"correlationId\":\"18ced56f-f1f4-4622-b47d-6f4edd659bb0\"}"}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  1:18 pm
+Process: Checking Sync Status of object id -535 and type PRODUCT
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/PRODUCT/535
+Response: {"status_code":200}
+-----------------------------------
+Website: 208.127.88.45
+Time: January 12, 2021  1:18 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 208.127.88.45
+Time: January 12, 2021  1:18 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 208.127.88.45
+Time: January 12, 2021  1:22 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  1:33 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  2:31 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  2:37 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  7:59 pm
+Process: Fetching and refreshing access token
+URL: /oauth/v1/token
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  7:59 pm
+Process: Get Dynamic Lists
+URL: /contacts/v1/lists/dynamic?count=250
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  7:59 pm
+Process: Creating Lists
+URL: /contacts/v1/lists
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  7:59 pm
+Process: Creating Lists
+URL: /contacts/v1/lists
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  7:59 pm
+Process: Creating Lists
+URL: /contacts/v1/lists
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  8:00 pm
+Process: Submitting Form data
+URL: https://api.hsforms.com/submissions/v3/integration/submit/6493626/fe467fde-b918-4a13-9f21-a92bddadff56
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  8:00 pm
+Process: Creating a form data
+URL: /forms/v2/forms
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  8:08 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:09 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:19 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 12, 2021  8:26 pm
+Process: Submitting Form data
+URL: https://api.hsforms.com/submissions/v3/integration/submit/9181620/8094ba7b-27d0-4658-94bf-0e9b83f35482
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":400,"response":"Bad Request","body":"{\"status\":\"error\",\"message\":\"No sync messages found for DEAL 542 in DoctorProfs-1\",\"correlationId\":\"0db76163-15fd-4da2-9663-a7dc368588fa\"}"}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":400,"response":"Bad Request","body":"{\"status\":\"error\",\"message\":\"No sync messages found for DEAL 542 in DoctorProfs-1\",\"correlationId\":\"4e3c5b77-61f3-4401-816a-8a92bc33fa94\"}"}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:27 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:30 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:36 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:58 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  8:59 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 12, 2021  9:14 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 13, 2021  2:41 pm
+Process: Fetching and refreshing access token
+URL: /oauth/v1/token
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 13, 2021  2:41 pm
+Process: Updating or Creating users data
+URL: /contacts/v1/contact/batch/
+Response: {"status_code":202}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 13, 2021  2:41 pm
+Process: Updating/Creating Ecomm Bridge - CONTACT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 13, 2021  2:41 pm
+Process: Updating/Creating Ecomm Bridge - DEAL
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 13, 2021  2:41 pm
+Process: Checking Sync Status of object id -542 and type DEAL
+URL: /extensions/ecomm/v2/sync/status/DoctorProfs-1/DEAL/542
+Response: {"status_code":200}
+-----------------------------------
+Website: 70.32.23.77
+Time: January 13, 2021  2:41 pm
+Process: Updating/Creating Ecomm Bridge - LINE_ITEM
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 13, 2021  9:05 pm
+Process: Fetching and refreshing access token
+URL: /oauth/v1/token
+Response: {"status_code":200}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 13, 2021  9:05 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
+Website: 69.73.71.27
+Time: January 13, 2021  9:08 pm
+Process: Updating/Creating Ecomm Bridge - PRODUCT
+URL: /extensions/ecomm/v2/sync/messages
+Response: {"status_code":204,"response":"No Content","body":""}
+-----------------------------------
